@@ -10,7 +10,7 @@ const Categories = ({loading,getCategories}) => {
 
     return (
         <div>
-            this is categories page
+            This is categories page
         </div>
     )
 }
